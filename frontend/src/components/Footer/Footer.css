@@ -46,3 +46,6 @@
   border: none;
   margin: 20px 0px;
 }
+.footer-content-left h1 {
+  color: tomato;
+}

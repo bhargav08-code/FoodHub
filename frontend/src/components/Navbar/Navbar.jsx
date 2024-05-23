@@ -6,7 +6,8 @@ const Navbar = () => {
   const [menu, setMenu] = useState("Home");
   return (
     <div className="navbar">
-      <img src={assets.logo} className="logo" />
+      {/* <img src={assets.logo} className="logo" /> */}
+      <h1>FoodHub.</h1>
       <ul className="navbar-menu">
         <li
           onClick={() => setMenu("Home")}

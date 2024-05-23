@@ -7,8 +7,12 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.logo} />
-          <p>---------------------------------</p>
+          <h1>FoodHub.</h1>
+          <p>
+            Discover a world of flavors with FoodHub! Whether you’re looking for
+            gourmet dishes prepared by top chefs or fresh ingredients to cook up
+            your own culinary masterpiece, we’ve got you covered.
+          </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} />
             <img src={assets.linkedin_icon} />

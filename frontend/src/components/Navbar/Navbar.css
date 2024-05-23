@@ -4,8 +4,8 @@
   justify-content: space-between;
   align-items: center;
 }
-.navbar .logo {
-  width: 150px;
+.navbar h1 {
+  color: tomato;
 }
 .navbar-menu {
   display: flex;
