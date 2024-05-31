@@ -1,0 +1,15 @@
+.title {
+  color: tomato;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 4%;
+}
+.navbar .title {
+  width: max(10%, 80px);
+}
+.navbar.profile {
+  width: 40px;
+}
